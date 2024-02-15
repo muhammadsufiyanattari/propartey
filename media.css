@@ -1,0 +1,1152 @@
+@media screen  and (max-width: 1064px) {
+  .welcomecontainer{
+    background-image: linear-gradient(
+    90deg,
+    hsl(195deg 46% 83%) 0%,
+    hsl(207deg 59% 85%) 16%,
+    hsl(224deg 61% 87%) 33%,
+    hsl(261deg 51% 87%) 50%,
+    hsl(310deg 46% 84%) 66%,
+    hsl(340deg 79% 85%) 83%,
+    hsl(0deg 94% 86%) 100%
+  );
+  width: 1380px;
+  height: 617px;
+  top: 156px;
+  left: 30px;
+  border-radius: 15px;
+  
+  
+  }
+  .welcomecol1>.welcometext{position: relative;
+    margin-top: 150px;
+    margin-left: 5px;
+  
+  }
+  .welcomecol1>.welcometext>.welcome1p{
+    font-family: my;font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomeh1{
+   
+  font-family: my;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomespan{
+    font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+    
+    }
+    .welcomeform{
+      margin-top: 10px;
+    }
+    .welcomecol1>.welcometext>.welcomeform>input{
+      width: 300px;
+      height: 60px;
+      top: 537px;
+      left: 76px;
+      border-radius: 40px;
+      border: none;
+      font-family: my;
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    
+  
+    
+    .welcomebtn>button{
+       position: absolute;
+  background-color: black;
+  color: white;
+     width: 150px;
+  height: 60px;
+  top: 228px;
+  left: 200px;
+  border-radius: 40px;
+  
+    }
+    .welcomecol2>.welcomecol2img>img{
+      width: 100%;
+  height: 667px;
+  top: 156px;
+  left: 625px;
+  
+  
+    }
+  
+}
+
+
+@media screen  and (max-width: 991px) {
+  .welcomecontainer{
+    background-image: linear-gradient(
+    90deg,
+    hsl(195deg 46% 83%) 0%,
+    hsl(207deg 59% 85%) 16%,
+    hsl(224deg 61% 87%) 33%,
+    hsl(261deg 51% 87%) 50%,
+    hsl(310deg 46% 84%) 66%,
+    hsl(340deg 79% 85%) 83%,
+    hsl(0deg 94% 86%) 100%
+  );
+  width: 100%;
+height: 100%;
+  top: 156px;
+  left: 30px;
+  border-radius: 15px;
+  
+  
+  }
+  .welcomecol1>.welcometext{position: relative;
+    margin-top: 100px;
+    margin-left: 5px;
+  
+  }
+  .welcomecol1>.welcometext>.welcome1p{
+    font-family: my;font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomeh1{
+   
+  font-family: my;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomespan{
+    font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+    
+    }
+    .welcomeform{
+      margin-top: 10px;
+    }
+    .welcomecol1>.welcometext>.welcomeform>input{
+      width: 300px;
+      height: 60px;
+      top: 537px;
+      left: 76px;
+      border-radius: 40px;
+      border: none;
+      font-family: my;
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    
+  
+    
+    .welcomebtn>button{
+       position: absolute;
+  background-color: black;
+  color: white;
+     width: 150px;
+  height: 60px;
+  top: 152px;
+  left: 200px;
+  border-radius: 40px;
+  
+    }
+    .welcomecol2>.welcomecol2img>img{
+      width: 100%;
+  height: 100%;
+  top: 156px;
+  left: 625px;
+  
+  
+    }
+  
+}
+
+
+
+
+@media screen  and (max-width: 956px) {
+  .welcomecontainer{
+    background-image: linear-gradient(
+    90deg,
+    hsl(195deg 46% 83%) 0%,
+    hsl(207deg 59% 85%) 16%,
+    hsl(224deg 61% 87%) 33%,
+    hsl(261deg 51% 87%) 50%,
+    hsl(310deg 46% 84%) 66%,
+    hsl(340deg 79% 85%) 83%,
+    hsl(0deg 94% 86%) 100%
+  );
+  width: 100%;
+height: 100%;
+  top: 156px;
+  left: 30px;
+  border-radius: 15px;
+  
+  
+  }
+  .welcomecol1>.welcometext{position: relative;
+    margin-top: 100px;
+    margin-left: 5px;
+  
+  }
+  .welcomecol1>.welcometext>.welcome1p{
+    font-family: my;font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomeh1{
+   
+  font-family: my;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomespan{
+    font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+    
+    }
+    .welcomeform{
+      margin-top: 10px;
+    }
+    .welcomecol1>.welcometext>.welcomeform>input{
+      width: 300px;
+      height: 60px;
+      top: 537px;
+      left: 76px;
+      border-radius: 40px;
+      border: none;
+      font-family: my;
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    
+  
+    
+    .welcomebtn>button{
+       position: absolute;
+  background-color: black;
+  color: white;
+     width: 150px;
+  height: 60px;
+  top: 152px;
+  left: 200px;
+  border-radius: 40px;
+  
+    }
+    .welcomecol2>.welcomecol2img>img{
+      width: 100%;
+  height: 100%;
+  top: 156px;
+  left: 625px;
+  
+  
+    }
+  
+}
+
+
+
+@media screen  and (max-width: 478px) {
+  .welcomecontainer{
+    background-image: linear-gradient(
+    90deg,
+    hsl(195deg 46% 83%) 0%,
+    hsl(207deg 59% 85%) 16%,
+    hsl(224deg 61% 87%) 33%,
+    hsl(261deg 51% 87%) 50%,
+    hsl(310deg 46% 84%) 66%,
+    hsl(340deg 79% 85%) 83%,
+    hsl(0deg 94% 86%) 100%
+  );
+  width: 100%;
+height: 100%;
+  top: 156px;
+  left: 30px;
+  border-radius: 15px;
+  
+  
+  }
+  .welcomecol1>.welcometext{position: relative;
+    margin-top: 100px;
+    margin-left: 5px;
+  
+  }
+  .welcomecol1>.welcometext>.welcome1p{
+    font-family: my;font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomeh1{
+   
+  font-family: my;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomespan{
+    font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+    
+    }
+    .welcomeform{
+      margin-top: 10px;
+    }
+    .welcomecol1>.welcometext>.welcomeform>input{
+      width: 300px;
+      height: 60px;
+      top: 537px;
+      left: 76px;
+      border-radius: 40px;
+      border: none;
+      font-family: my;
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    
+  
+    
+    .welcomebtn>button{
+       position: absolute;
+  background-color: black;
+  color: white;
+     width: 150px;
+  height: 60px;
+  top: 203px;
+  left: 200px;
+  border-radius: 40px;
+  
+    }
+    .welcomecol2>.welcomecol2img>img{
+      width: 100%;
+  height: 100%;
+  top: 156px;
+  left: 625px;
+  
+  
+    }
+  
+}
+@media screen  and (max-width: 403px) {
+  .welcomecontainer{
+    background-image: linear-gradient(
+    90deg,
+    hsl(195deg 46% 83%) 0%,
+    hsl(207deg 59% 85%) 16%,
+    hsl(224deg 61% 87%) 33%,
+    hsl(261deg 51% 87%) 50%,
+    hsl(310deg 46% 84%) 66%,
+    hsl(340deg 79% 85%) 83%,
+    hsl(0deg 94% 86%) 100%
+  );
+  width: 100%;
+height: 100%;
+  top: 156px;
+  left: 30px;
+  border-radius: 15px;
+  
+  
+  }
+  .welcomecol1>.welcometext{position: relative;
+    margin-top: 50px;
+    margin-left: 5px;
+  
+  }
+  .welcomecol1>.welcometext>.welcome1p{
+    font-family: my;font-weight: 100;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomeh1{
+   
+  font-family: my;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  }
+  .welcomecol1>.welcometext>.welcomespan{
+    font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  
+    
+    }
+    .welcomeform{
+      margin-top: 10px;
+    }
+    .welcomecol1>.welcometext>.welcomeform>input{
+      width: 300px;
+      height: 60px;
+      top: 537px;
+      left: 76px;
+      border-radius: 40px;
+      border: none;
+      font-family: my;
+      font-size: 15px;
+      padding-left: 10px;
+    }
+    
+  
+    
+    .welcomebtn>button{
+       position: absolute;
+  background-color: black;
+  color: white;
+     width: 150px;
+  height: 60px;
+  top: 227px;
+  left: 200px;
+  border-radius: 40px;
+  
+    }
+    .welcomecol2>.welcomecol2img>img{
+      width: 100%;
+  height: 100%;
+  top: 156px;
+  left: 625px;
+  
+  
+    }
+  
+}
+
+/* complete welcomepart */
+
+
+
+
+
+
+/* <!-- message part --> */
+
+@media  screen and (max-width: 956px) {
+  
+.msgiconmain{
+  margin-top: 100px;
+}
+.msgiconmain>.msgiconmainh>p{
+
+
+font-family: my;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+color: black;
+
+}
+.msgiconmain>.msgiconmainh>h2{
+ 
+font-family: my;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+
+
+}
+.msgcard{
+  margin-top: 50px;
+}
+.msgcard>.msgcardimg{
+  text-align: center;
+}
+.msgcard>.msgcardimg>img{
+  width: 75px;
+ 
+}
+  .msgcard>.msgcardp{
+    font-family: my;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+
+  }
+  .msgcard>.msgcardspan{
+    font-family: my;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+  }
+
+
+}
+
+
+
+@media  screen and (max-width: 556px) {
+  
+  .msgiconmain{
+    margin-top: 100px;
+  }
+  .msgiconmain>.msgiconmainh>p{
+  
+  
+  font-family: my;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19px;
+  color: black;
+  
+  }
+  .msgiconmain>.msgiconmainh>h2{
+   
+  font-family: my;
+  font-size: 35px;
+  font-weight: 600;
+  line-height: 60px;
+  letter-spacing: 0em;
+ 
+  
+  
+  }
+  .msgcard{
+    margin-top: 50px;
+  }
+  .msgcard>.msgcardimg{
+    text-align: center;
+  }
+  .msgcard>.msgcardimg>img{
+    width: 75px;
+   
+  }
+    .msgcard>.msgcardp{
+      font-family: my;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+    }
+    .msgcard>.msgcardspan{
+      font-family: my;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  
+    }
+  
+  
+  }
+
+   /* complete message part  */
+
+      /* home card */
+      @media screen  and (max-width:956px) {
+
+
+
+        .homecardmain{
+          margin-top: 150px;
+         }
+         .home-text>.homep{
+        
+      font-family: my;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 19px;
+      letter-spacing: 0em;
+      text-align: center;
+      color: black;
+         }
+         .home-text>.homeh{
+       
+      font-family: my;
+      font-size: 40px;
+      font-weight: 600;
+      line-height: 60px;
+      letter-spacing: 0em;
+      text-align: center;
+      color: black;
+      
+         }
+         .home-card{
+          width: 100%;
+          height: 100%;
+          top: 1518px;
+          left: 30px;
+          border-radius: 14px;
+          border: 1px ;
+          opacity: 0.45px;
+          margin: 5px  auto;
+          
+          
+         }
+         
+   .home-card:hover{border: 1px solid gray;
+    padding: 5px;
+
+   }
+      
+         
+         .home-card>.home-card-img1{
+          width: 100%;
+      height: 263px;
+      top: 1518px;
+      left: 30px;
+      border-radius: 14px;
+      
+         }
+        
+      }
+
+
+      @media screen  and (max-width:575px) {
+
+
+
+        .homecardmain{
+          margin-top: 150px;
+         }
+         .home-text>.homep{
+        
+      font-family: my;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 19px;
+      letter-spacing: 0em;
+      text-align: center;
+      color: black;
+         }
+         .home-text>.homeh{
+       
+      font-family: my;
+      font-size: 40px;
+      font-weight: 600;
+      line-height: 60px;
+      letter-spacing: 0em;
+      text-align: center;
+      color: black;
+      
+         }
+         .home-card{
+          margin: auto;
+          text-align: center;
+          width: 100%;
+          height: 100%;
+          top: 1518px;
+          /* left: 30px; */
+          border-radius: 14px;
+          border: 1px ;
+          opacity: 0.45px;
+          margin: 5px  auto;
+          
+         }
+         
+   .home-card:hover{border: 1px solid gray;
+    padding: 5px;
+
+   }
+      
+         
+         .home-card>.home-card-img1{
+          width: 100%;
+      height: 263px;
+      top: 1518px;
+      left: 30px;
+      border-radius: 14px;
+      
+         }
+        
+      }
+
+         /* complete home card  */
+
+
+
+            /* <!-- global --> */
+           
+
+@media screen  and (max-width:980px) {
+  .globalmain{
+    margin-top: 100px;
+   }
+   .globalh>h1{
+   
+font-family: my;
+font-size: 50px;
+font-weight: 600;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+color: black;
+
+   }
+   .globalrow{
+    margin-top: 50px;
+   }
+   .globalcol-text{
+    margin-left: 15px;
+   }
+   .globalcol-text>h3{
+ margin: 50px 0px;
+font-family: my;
+font-size: 38px;
+font-weight: 600;
+line-height: 46px;
+letter-spacing: 0em;
+/* text-align: left; */
+color: black;
+
+   }
+   .globalcol-text>p{
+    margin:50px 0px;
+    font-family: my;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+/* text-align: left; */
+color: black;
+
+   }
+   .global-btn{
+    margin: 50px 0px !important;
+   }
+   .global-btn>.global-btn1{
+    width: Hug (153px);
+height: Fixed (60px);
+top: 2502px;
+left: 98px;
+padding: 15px, 35px, 15px, 35px;
+border-radius: 40px;
+gap: 10px;
+padding: 10px;
+margin: 0px 5px;
+background-color: #1F1F1F;
+color: white;
+border: 1px solid white;
+
+   }
+   .global-btn>.global-btn2{
+    width: Hug (156px);
+height: Fixed (60px);
+top: 2502px;
+left: 275px;
+padding: 15px, 35px, 15px, 35px;
+border-radius: 40px;
+border: 1px;
+gap: 10px;
+margin: 0px 5px;
+color: gray;
+padding: 10px;
+   }
+
+   .rowplus{
+    margin: 100px 0px;
+   }
+   .rowplus>.colplus{
+  
+   }
+   .rowplus>.colplus>.plusimg>img{
+    width: 80px;
+   }
+   .globalcol2>.globalimg{
+    /* text-align: right; */
+   }
+     
+  
+}
+
+     @media screen and (max-width:750px) {
+      .globalmain{
+        margin-top: 100px;
+       }
+       .globalh>h1{
+       
+    font-family: my;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+    
+       }
+       .globalrow{
+        margin-top: 50px;
+       }
+       .globalcol-text{
+        margin-left: 15px;
+       }
+       .globalcol-text>h3{
+     margin: 30px 0px;
+    font-family: my;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+    
+       }
+       .globalcol-text>p{
+        margin:50px 0px;
+        font-family: my;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+    
+       }
+       .global-btn{text-align: center;
+        margin: 50px 0px !important;
+       }
+       .global-btn>.global-btn1{
+        width: Hug (153px);
+    height: Fixed (60px);
+    top: 2502px;
+    left: 98px;
+    padding: 15px, 35px, 15px, 35px;
+    border-radius: 40px;
+    gap: 10px;
+    padding: 10px;
+    margin: 0px 5px;
+    background-color: #1F1F1F;
+    color: white;
+    border: 1px solid white;
+    
+       }
+       .global-btn>.global-btn2{
+        width: Hug (156px);
+    height: Fixed (60px);
+    top: 2502px;
+    left: 275px;
+    padding: 15px, 35px, 15px, 35px;
+    border-radius: 40px;
+    border: 1px;
+    gap: 10px;
+    margin: 0px 5px;
+    color: gray;
+    padding: 10px;
+       }
+    
+       .rowplus{
+        margin: 100px 0px;
+       }
+       .rowplus>.colplus{
+      
+       }
+       .rowplus>.colplus>.plusimg>img{
+        width: 100px;
+       }
+       .globalcol2>.globalimg{
+        /* text-align: right; */
+       }
+  
+      
+     }
+      /* <!-- complete-global --> */
+
+
+      /* <!-- Subscribe part --> */
+
+      @media screen and (max-width:1078px) {
+
+        .Sub-main{
+          width: 1380px;
+        height: 457px;
+        top: 2949px;
+        left: 30px;
+        border-radius: 15px;
+        background-image: linear-gradient(
+          90deg,
+          hsl(195deg 46% 83%) 0%,
+          hsl(207deg 59% 85%) 16%,
+          hsl(224deg 61% 87%) 33%,
+          hsl(261deg 51% 87%) 50%,
+          hsl(310deg 46% 84%) 66%,
+          hsl(340deg 79% 85%) 83%,
+          hsl(0deg 94% 86%) 100%
+        );
+        
+        }
+        .sub-text{
+          margin-top: 50px;
+        }
+        .sub-text>h1{font-size: 30px;
+        
+        height: 60px;
+        top: 3005px;
+        left: 73px;
+        color: black;
+        }
+        .sub-text>p{
+          font-size: 15px;
+          width: 426px;
+        height: 96px;
+        top: 3083px;
+        left: 73px;
+        color: black;
+        }
+        .subform{
+          position: relative;
+        }
+        .subform>input{
+          width: 300px;
+        height: 60px;
+        top: 3224px;
+        left: 73px;
+        border-radius: 40px;
+        font-family: my;
+        padding-left: 10px;
+        border: none;
+        font-size: 16px;
+        
+        }
+        .subbtn{
+          position: absolute;
+          bottom: 2px;
+          left: 250px;
+        }
+        .subbtn>button{
+          width: 147px;
+        height: 60px;
+        top: 3224px;
+        left: 394px;
+        border-radius: 40px;
+        color: white;
+        background-color: #1F1F1F;
+        
+        }
+        .subcol2>.subcol-img>img{
+          width: 606px;
+        height: 557px;
+        top: 2893px;
+        /* left: 809px */margin-left: 40px;
+        
+        }
+        
+      }
+
+
+
+
+      @media screen and (max-width:991px) {
+
+        .Sub-main{
+          width: 100% !important;
+        height: 100% !important;
+        top: 2949px;
+        left: 30px;
+        border-radius: 15px;
+        background-image: linear-gradient(
+          90deg,
+          hsl(195deg 46% 83%) 0%,
+          hsl(207deg 59% 85%) 16%,
+          hsl(224deg 61% 87%) 33%,
+          hsl(261deg 51% 87%) 50%,
+          hsl(310deg 46% 84%) 66%,
+          hsl(340deg 79% 85%) 83%,
+          hsl(0deg 94% 86%) 100%
+        );
+        margin-top: 100px;
+        
+        }
+        .sub-text{text-align: center;
+          margin-top: 50px;
+        }
+        .sub-text>h1{font-size: 30px;
+        width: 100%;
+        height: 100%;
+        top: 3005px;
+        left: 73px;
+        color: black;
+        }
+        .sub-text>p{text-align: center;
+          font-size: 15px;
+          width: 100%;
+        height: 100%;
+        top: 3083px;
+        left: 73px;
+        color: black;
+        }
+        .subform{
+          position: relative;
+        }
+        .subform>input{
+          width: 200px;
+        height: 40px;
+        top: 3224px;
+        left: 73px;
+        border-radius: 40px;
+        font-family: my;
+        padding-left: 10px;
+        border: none;
+        font-size: 10px;
+        
+        }
+        .subbtn{
+          position: absolute;
+          bottom: 0px;
+          left: 310px;
+        }
+        .subbtn>button{
+          font-size: 10px;
+          width: 100px;
+        height: 42px;
+        top: 3224px;
+        left: 394px;
+        border-radius: 40px;
+        color: white;
+        background-color: #1F1F1F;
+        
+        }
+        .subcol2>.subcol-img>img{
+          width: 100% !important;
+        height: 100% !important;
+        top: 2893px;
+        /* left: 809px */margin-left: 0px;
+        
+        }
+        
+      }
+
+
+
+      @media screen and (max-width:510px) {
+
+        .Sub-main{
+          width: 100% !important;
+        height: 100% !important;
+        top: 2949px;
+        left: 30px;
+        border-radius: 15px;
+        background-image: linear-gradient(
+          90deg,
+          hsl(195deg 46% 83%) 0%,
+          hsl(207deg 59% 85%) 16%,
+          hsl(224deg 61% 87%) 33%,
+          hsl(261deg 51% 87%) 50%,
+          hsl(310deg 46% 84%) 66%,
+          hsl(340deg 79% 85%) 83%,
+          hsl(0deg 94% 86%) 100%
+        );
+        margin-top: 100px;
+        
+        }
+        .sub-text{text-align: center;
+          margin-top: 50px;
+        }
+        .sub-text>h1{font-size: 30px;
+        width: 100%;
+        height: 100%;
+        top: 3005px;
+        left: 73px;
+        color: black;
+        }
+        .sub-text>p{text-align: center;
+          font-size: 15px;
+          width: 100%;
+        height: 100%;
+        top: 3083px;
+        left: 73px;
+        color: black;
+        }
+        .subform{
+          position: relative;
+        }
+        .subform>input{
+          width: 200px;
+        height: 40px;
+        top: 3224px;
+        left: 73px;
+        border-radius: 40px;
+        font-family: my;
+        padding-left: 10px;
+        border: none;
+        font-size: 10px;
+        
+        }
+        .subbtn{
+          position: absolute;
+          bottom: 0px;
+          left: 245px;
+        }
+        .subbtn>button{
+          font-size: 10px;
+          width: 100px;
+        height: 42px;
+        top: 3224px;
+        left: 394px;
+        border-radius: 40px;
+        color: white;
+        background-color: #1F1F1F;
+        
+        }
+        .subcol2>.subcol-img>img{
+          width: 100% !important;
+        height: 100% !important;
+        top: 2893px;
+        /* left: 809px */margin-left: 0px;
+        
+        }
+        
+      }
